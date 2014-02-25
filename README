@@ -1,4 +1,4 @@
-Script program to automate this steps: http://crysol.org/es/node/1438 (sorry,
+Script program to automate these steps: http://crysol.org/es/node/1438 (sorry,
 only Spanish). Following components will be installed automatically:
 
 - Toolchain
@@ -8,4 +8,10 @@ only Spanish). Following components will be installed automatically:
 
 Script can configure your system too (for user, not root).
 
-Int-0
+CREDITS GO TO : Int-0
+
+TESTING DONE BY:rom5566
+
+Update:
+I will test this on linux.mint16.64bit running in vmware 10.
+I will post the results shortly
