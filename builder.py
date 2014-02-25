@@ -7,7 +7,7 @@ import sys
 if os.name == 'posix':
     import linux as Linux
 else:
-    print 'Sorry, for now only linux are supported!'
+    print 'Sorry, for now ONLY linux distros are supported!'
     sys.exit(1)
 
 import ps3toolchain
